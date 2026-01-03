@@ -1,6 +1,6 @@
-# TUM BPM Car Navigation Process
+# BPM Car Navigation Process
 
-This project implements a car navigation process with real-time visualization as part of the BPM course at TUM.
+This project implements a car navigation process with real-time visualization as part of the BPM.
 
 ## Project Structure
 ```
